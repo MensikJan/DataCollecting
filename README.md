@@ -40,5 +40,7 @@ Dále bych mohl čtenáře seznámit se všemi možnostmi EV3 API, ale tyto info
 Tento projekt jsem si vybral jak ze zájmu o robotiku, tak z možnosti se naučit novým jazykům. Proto byl pro vývoj vybrán .NET, protože jsem s touto platformou ještě neměl žádné zkušenosti. V aplikaci lze přizpůsobit výstup.
 
 Webová aplikace pro příjem dat ✔
+
 Implementace zobrazení grafu přímo v aplikaci 
+
 Vytvoření intuitivnějšího rozhraní.  ✔
