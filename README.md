@@ -1,5 +1,5 @@
 # Application in C# for collecting data from LEGO MINDSTORM EV3
-
+# Podrobnější dokumentaci naleznete v souboru Jan_Menšík.pdf
 # Cíl projektu
 Tento projekt bude primárně zaměřen a konstruován pro sběr dat z portů Lego robota EV3. Program bude naprogramovaný pomocí programu Microsoft Visual Studio na platformě .NET 4.5 . Program bude komunikovat přes bluetooth a jeho výstupem budou textové soubory s uloženými daty. Program bude vyvíjen v jazyce C#.
  
